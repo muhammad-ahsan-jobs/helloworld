@@ -47,7 +47,7 @@ h1 {
     width: 100%;
     padding: 12px;
     font-size: 16px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: green;
     color: white;
     border: none;
     border-radius: 5px;
@@ -58,7 +58,7 @@ h1 {
 
 #greetButton:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+    box-shadow: 0 5px 15px rgba(0, 128, 0, 0.4);
 }
 
 #greetButton:active {
